@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: io.mklabs
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: maven
+features: [ annotation-api, app-name, data, data-jpa, flyway, h2, http-client, jackson-databind, jdbc-hikari, junit, kotlin, kotlin-application, maven, netty-server, openapi, readme, shade, slf4j-simple, swagger-ui, vertx-pg-client, yaml ]
